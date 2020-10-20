@@ -534,7 +534,9 @@ friends
 fright
 frightened
 frustration
-fuel 
+fuel
+fuck
+fucking 
 fully 
 fun 
 funny 
